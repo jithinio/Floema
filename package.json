@@ -39,6 +39,7 @@
   },
   "dependencies": {
     "@prismicio/client": "^7.1.0",
+    "@prismicio/helpers": "^2.3.9",
     "body-parser": "^1.20.2",
     "concurrently": "^8.2.0",
     "dotenv": "^16.3.1",
